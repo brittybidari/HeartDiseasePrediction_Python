@@ -41,7 +41,7 @@ Operating System: The Entire Project Cycle was conducted in Mac OS
 Language: The project SDLC is in python (Python 3.9.12), including all the libraries SDKs and Plugins 
 IDE: The coding environment selected was Jupyter Notebook
 
-# Feel Free to provide me with the feedback and necessary suggestions @bidtty@gmail.com
-# Main Code of the project - checkout @ https://github.com/brittybidari/HeartDiseasePrediction_Python/blob/2c0c88aaef422d5974a15d1f499c69ae68fe6369/HeartDiseasePrediction_.ipynb
+Feel Free to provide me with feedback and necessary suggestions 
+**@bidtty@gmail.com**
 
-
+Main Code of the project - checkout @ **https://github.com/brittybidari/HeartDiseasePrediction_Python/blob/2c0c88aaef422d5974a15d1f499c69ae68fe6369/HeartDiseasePrediction_.ipynb**
